@@ -1,0 +1,6 @@
+reasons.db
+__pycache__/
+.code-expert/
+proposed-beliefs.md
+proposed-derivations.md
+reviews/
